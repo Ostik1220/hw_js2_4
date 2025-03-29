@@ -1,0 +1,12 @@
+{
+  "name": "ostap",
+  "version": "1.0.0",
+  "description": "homework for js second year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "ostap",
+  "license": "ISC"
+}
